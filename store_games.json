@@ -8,7 +8,7 @@
  {
     "nom": "Jeu de la vie ",
     "image": "https://github.com/sprityongodnes/store_games/raw/main/image/JeuDeLaVie.png",
-    "url": "https://github.com/sprityongodnes/store_games/raw/refs/heads/main/jeux/Jeudelavie.zip",
+    "url": "https://github.com/sprityongodnes/store_games/raw/refs/heads/main/jeux/jdlv.zip",
     "description": "Une simulation interactive de cellules qui évoluent selon des règles simples"
   }
   
