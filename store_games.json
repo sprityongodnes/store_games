@@ -1,13 +1,11 @@
 [
   {
-    "nom": "AstroCrash",
-    "image": "https://github.com/sprityongodnes/store_games/blob/main/image/image.png",
-    "url": "https://github.com/sprityongodnes/store_games/raw/refs/heads/main/jeux/AstroCrash.zip",
-    "description": "Dans AstroCrash, prends les commandes d’un vaisseau spatial solitaire perdu
- dans un champ d’astéroïdes infernal. Évite les collisions, récupère des boosts
- de survie et tente de battre ton meilleur score à chaque vol. Plus tu progresses, 
-plus la difficulté augmente, mettant à l’épreuve tes réflexes et ta stratégie.
-Esquive, survive, améliore-toi.
-Tu n’as qu’un objectif : ne pas crasher."
+    {
+  "nom": "AstroCrash",
+  "image": "https://github.com/sprityongodnes/store_games/raw/main/image/image.png",
+  "url": "https://github.com/sprityongodnes/store_games/raw/refs/heads/main/jeux/AstroCrash.zip",
+  "description": "Dans AstroCrash, prends les commandes d’un vaisseau spatial solitaire perdu\n dans un champ d’astéroïdes infernal. Évite les collisions, récupère des boosts\n de survie et tente de battre ton meilleur score à chaque vol. Plus tu progresses, \nplus la difficulté augmente, mettant à l’épreuve tes réflexes et ta stratégie.\nEsquive, survive, améliore-toi.\nTu n’as qu’un objectif : ne pas crasher."
+}
+
   }
 ]
