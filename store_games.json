@@ -1,8 +1,8 @@
 [
   {
     "nom": "AstroCrash",
-    "image": "https://monhebergeur.com/images/monjeu.png",
-    "url": "https://monhebergeur.com/jeux/MonJeu.zip",
+    "image": "https://github.com/sprityongodnes/store_games/blob/main/image/image.png",
+    "url": "https://github.com/sprityongodnes/store_games/raw/refs/heads/main/jeux/AstroCrash.zip",
     "description": "Dans AstroCrash, prends les commandes d’un vaisseau spatial solitaire perdu
  dans un champ d’astéroïdes infernal. Évite les collisions, récupère des boosts
  de survie et tente de battre ton meilleur score à chaque vol. Plus tu progresses, 
